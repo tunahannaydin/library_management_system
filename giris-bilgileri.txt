@@ -1,0 +1,32 @@
+################################
+# KÜTÜPHANE YÖNETİM SİSTEMİ
+# TEST KULLANICI BİLGİLERİ
+# Son Güncelleme: 26.05.2025
+################################
+
+=== ADMIN HESABI ===
+* Kullanıcı Adı: admin
+  Şifre: admin
+
+=== PERSONEL HESABI ===
+*  Kullanıcı Adı: personel
+   Şifre: personel
+
+=== ÖĞRENCİ HESABI ===
+* Kullanıcı Adı: ogrenci
+  Şifre: ogrenci
+
+=== DEMO KİTAPLAR ===
+1. ID: 1
+   Başlık: Sefiller
+   Yazar: Victor Hugo
+   Durum: Rafta
+
+2. ID: 2
+   Başlık: Kumarbaz
+   Yazar: Dostoyevski
+   Durum: Rafta
+
+################################
+# Tunahan Aydın - 240229029
+################################
